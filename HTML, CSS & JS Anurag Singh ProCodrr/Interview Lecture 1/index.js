@@ -1,3 +1,5 @@
+// * Lecture video link : https://youtu.be/mtlqUsVb0BY?si=5ss1aYBlTNxH6WWn
+
 // & HTML
 
 // TODO : What is HTML
@@ -36,9 +38,9 @@
 
 // TODO : what are different types of data types in js
 // * Ans --> There are 2 types of data types in js
-// ^ 1. Primitive data types                                          --> Number, string , boolean, null, undefined, BigInt, symbol(ES6)
+// ^ 1. Primitive data types  --> Number, string , boolean, null, undefined, BigInt, symbol(ES6)
 
-// ! 2. Non-Primitive data types                                       --> Array, Object, Function, Date Object, Regular Expression (RegExp)
+// ! 2. Non-Primitive data types  --> Array, Object, Function, Date Object, Regular Expression (RegExp)
 
 
 
@@ -155,7 +157,7 @@
 
 //   // create a new div element for the todo item
 //   const todoItem = document.createElement('div');
-//   todoItem.classList.add('todo-item');
+// todoItem.classList.add('todo-item');
 
 //   // create a span for the task
 //   const taskText = document.createElement('span');
